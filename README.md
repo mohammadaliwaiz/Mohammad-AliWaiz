@@ -2,7 +2,7 @@
 Hello World This is My Profile.
 <!-- animation start  -->
   <div align="center">
-    <h1> Hi there, I'm Muaaz Asif👋</h1>
+    <h1> Hi there, I'm MohammadAliWaiz👋</h1>
   </div>
 <p align="center">
 <a href="https://github.com/MohammadAliwaiz"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis+and+Python+Developer;+Power+BI+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -32,7 +32,7 @@ Hello World This is My Profile.
     <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="MuaazAsif Ali- Facebook"></a>
     <a href="https://www.fiverr.com/MohammadAliWaiz" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Muaaz Asif-fiverr"></a>
 <a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/329973" target="_blank"><img src="https://img.shields.io/badge/PowerBi-0D1117?style=for-the-badge&logo=PowerBi&logoColor=F0DB4F" alt="MuaazAsif Ali-Power Bi"></a>
-	<a href="https://muaazasif.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=F0DB4F" alt="MuaazAsif Ali-Portfolio"></a>
+	<a href="https://m.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=F0DB4F" alt="MuaazAsif Ali-Portfolio"></a>
 	
 
 </div>
